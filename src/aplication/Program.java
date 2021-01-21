@@ -25,45 +25,45 @@ public class Program {
 		
 		
 		
-		int nu1 = n1 + 6;
+		int nu1 = n6 + 6;
 		if (nu1 > 60) {
 			
 			n1 = 6;
 		}
 		
-		int nu2 = n2 + 13;
+		int nu2 = n5 + 13;
 		if (nu2 > 60) {
 			
 			n2 = 13;
 		}
 		
-		int nu3 = n3 + 17;
+		int nu3 = n4 + 17;
 		if (nu3 > 60) {
 			
 			n3 = 17;
 		}
 		
-		int nu4 = n4 + 25;
+		int nu4 = n3 + 25;
 		if (nu4 > 60) {
 			
 			n4 = 25;
 		}
 		
-		int nu5 = n5 + 12;
+		int nu5 = n2 + 12;
 		if (nu5 > 60) {
 			
 			n5 = 57;
 		}
 		
-		int nu6 = n5 + 11;
+		int nu6 = n1 + 11;
 		if (nu6 > 60) {
 			
 			n6 = 60;
 		}
 		
 		System.out.println();
-		System.out.println("Sugestão de hoje "+ data +" BOA SORTE!");
-		System.out.println(nu1 +"-"+nu2+"-"+nu3+"-"+nu4+"-"+nu5+"-"+nu6);
+		System.out.println("Sugestão de hoje "+data+" BOA SORTE!");
+		System.out.println(nu1+"-"+nu2+"-"+nu3+"-"+nu4+"-"+nu5+"-"+nu6);
 		
 		
 		
